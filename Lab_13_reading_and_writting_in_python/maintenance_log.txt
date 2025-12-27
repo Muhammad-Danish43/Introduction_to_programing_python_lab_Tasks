@@ -1,0 +1,5 @@
+Transformer Maintenance Log
+----------------------------
+Date: 2025-01-05 | Activity: Oil Check | Status: OK
+Date: 2025-01-10 | Activity: Insulation Test | Status: Good
+Date: 2025-01-15 | Activity: Cooling System | Status: Serviced
